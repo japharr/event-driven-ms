@@ -10,6 +10,6 @@
 rootProject.name = 'event-driven-ms'
 
 include 'services:notification'
-include 'systems:discovery'
+include 'systems:discovery-server'
 include 'systems:gateway'
 
